@@ -1,6 +1,7 @@
 # Requirement
 - php 7.4
 - laravel 8
+- mysql
 
 # Auth
 - Jwt
